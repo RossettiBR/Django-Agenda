@@ -1,0 +1,4 @@
+[run]
+branch = True
+omit = venv/*, **/*test*.py, __localcode/*, project/*, *manage.py, utils/browse>
+
